@@ -31,7 +31,7 @@
 </div>
 
 
-## 🔥 Skills
+## Hard Skills
 
 <!-- Skills: Programming Languages -->
   <div align="left">
