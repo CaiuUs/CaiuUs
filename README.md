@@ -20,7 +20,7 @@
 
 <!-- Links -->
  <a href="https://www.instagram.com/caius.ribeiro00?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=8134af&color=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/martiniano-gomes-7953801b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" target="_blank"></a>
+  <a href="www.linkedin.com/in/caius-ribeiro-357539308" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" target="_blank"></a>
 
 ***
 
