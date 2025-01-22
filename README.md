@@ -15,7 +15,7 @@
 
   - Tenho 19 anos, sou de Marabá/PA, faço sistemas de informação na Universidade Federal do Sul e Sudesde do Pará(UNIFESSPA). Tenho contato com algumas linguagens de programação, como: Java, JavaScript, Python, Swift, C. 
 
-  - Gosto muito de praticar esportes(atualmente jogo vôlei e basquete), e gosto bastante de animes, filmes e jogos. \o/
+  - Gosto muito de praticar esportes(atualmente jogo vôlei), e gosto bastante de animes, filmes e jogos. \o/
 </details>
 
 <!-- Links -->
