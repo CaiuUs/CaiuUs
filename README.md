@@ -11,7 +11,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>EU: </summary>
+  <summary>Sobre mim: </summary>
 
   - Tenho 19 anos, sou de Marabá/PA, faço sistemas de informação na Universidade Federal do Sul e Sudesde do Pará(UNIFESSPA). Tenho contato com algumas linguagens de programação, como: Java, JavaScript, Python, Swift, C. 
 
