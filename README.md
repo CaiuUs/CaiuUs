@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá, Eu me chamo Caius e estou cursando Sistemas de Informação pela UNIFESSPA.
+  Olá, Eu me chamo Caius Ribeiro e estou cursando Sistemas de Informação pela UNIFESSPA.
 </p>
 
 <!-- Dropdown -->
@@ -15,7 +15,7 @@
 
   - Tenho 19 anos, sou de Marabá/PA, faço sistemas de informação na Universidade Federal do Sul e Sudesde do Pará(UNIFESSPA). Tenho contato com algumas linguagens de programação, como: Java, JavaScript, Python, Swift, C. 
 
-  - Gosto muito de praticar esportes(atualmente jogo vôlei), e gosto bastante de animes, filmes, séries e jogos. \o/
+  - Gosto muito de praticar esportes, e gosto bastante de animes, filmes, séries e jogos no geral. \o/
 </details>
 
 <!-- Links -->
