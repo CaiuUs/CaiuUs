@@ -143,12 +143,7 @@ const caius = {
   />
 </div>
 
-<!--
-  COBRINHA DE CONTRIBUIÇÕES — descomente este bloco DEPOIS de adicionar o
-  arquivo .github/workflows/snake.yml e rodar o workflow uma vez (Actions >
-  "Gerar cobrinha de contribuições" > Run workflow). Antes disso a imagem
-  não existe e apareceria quebrada.
-
+<!-- Cobrinha gerada pelo workflow .github/workflows/snake.yml (branch output) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuUs/CaiuUs/output/snake-dark.svg" />
@@ -156,7 +151,6 @@ const caius = {
     <img src="https://raw.githubusercontent.com/CaiuUs/CaiuUs/output/snake.svg" alt="cobrinha de contribuições" width="100%" />
   </picture>
 </div>
--->
 
 <br />
 
