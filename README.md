@@ -27,11 +27,10 @@
 <!-- ===================== SOBRE MIM ===================== -->
 ## 🧑🏻‍💻 Sobre mim
 
-Oi! Sou o Caius, tenho 19 anos e sou de Marabá, no Pará. Faço Sistemas de Informação
-na UNIFESSPA e passo boa parte do tempo mexendo com web — hoje mais com TypeScript e
-React, mas também já rodei bastante com Java, Python e Swift.
+- Oi! Sou o Caius, tenho 22 anos e sou de Marabá, no Pará. Estou me formando em Sistemas de Informação
+pela universidade federal do sul e sudeste do pará(UNIFESSPA)
 
-Fora do código: esporte, anime, filme, série e jogo no geral. \o/
+- Gosto bastante da área da tecnologia, mas fora dela, me interesso muito por culinária, jogos, filmes, séries e esportes
 
 <br />
 
