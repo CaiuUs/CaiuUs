@@ -132,32 +132,3 @@ Fora do código: esporte, anime, filme, série e jogo no geral. \o/
   />
 </div>
 
-<br />
-
-<!-- ===================== PROJETOS ===================== -->
-## 🚀 Projetos em destaque
-
-<!-- Troque os repositórios/descrições pelos que você quiser destacar.
-     Vale a pena também fixá-los no perfil (botão "Customize your pins"). -->
-
-<div align="center">
-
-| Projeto | O que é | Stack |
-| :--- | :--- | :---: |
-| **[Javes-portfolio](https://github.com/CaiuUs/Javes-portfolio)** | Portfólio pessoal em web moderna | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) |
-| **[BTracking](https://github.com/CaiuUs/BTracking)** | App iOS de acompanhamento | ![Swift](https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=F05138) |
-| **[Ranking-system](https://github.com/CaiuUs/Ranking-system)** | Sistema de ranqueamento | ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| **[quicklist](https://github.com/CaiuUs/quicklist)** | Lista de tarefas enxuta | ![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6) |
-
-</div>
-
-<br />
-
-<!-- ===================== RODAPÉ ===================== -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=140&section=footer&text=Obrigado%20pela%20visita!&fontColor=ffffff&fontSize=26&fontAlignY=70&animation=fadeIn"
-    width="100%"
-    alt="rodapé"
-  />
-</div>
