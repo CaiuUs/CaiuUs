@@ -54,7 +54,7 @@ pela universidade federal do sul e sudeste do pará(UNIFESSPA)
 
 ### Ferramentas & Ambiente
 <!-- Adicione o que mais usar, ex.: ,figma,mysql,docker,tailwind -->
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,xcode&theme=dark" alt="ferramentas" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,mysql,git,github,vscode,xcode&theme=dark" alt="ferramentas" />
 
 </div>
 
