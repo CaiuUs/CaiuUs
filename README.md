@@ -7,14 +7,6 @@
   />
 </div>
 
-<!-- ===================== TYPING ===================== -->
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Front-End+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;Sempre+aprendendo+algo+novo"
-    alt="typing"
-  />
-</div>
-
 <!-- ===================== BADGES DE TOPO ===================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/caius-ribeiro-357539308" target="_blank">
@@ -28,7 +20,6 @@
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Gmail" />
   </a>
   -->
-  <img src="https://komarev.com/ghpvc/?username=CaiuUs&label=Visitas&color=70a5fd&style=for-the-badge" alt="visitas" />
 </div>
 
 <br />
@@ -36,21 +27,19 @@
 <!-- ===================== SOBRE MIM ===================== -->
 ## 🧑🏻‍💻 Sobre mim
 
-```ts
-const caius = {
-  idade: 19,
-  cidade: "Marabá — Pará, Brasil",
-  curso: "Sistemas de Informação @ UNIFESSPA",
-  focoAtual: ["TypeScript", "Desenvolvimento Web", "Swift"],
-  aprendendo: ["React", "Node.js", "Boas práticas de código"],
-  foraDoCódigo: ["esportes", "animes", "filmes", "séries", "games"],
-};
-```
+Oi! Sou o Caius, tenho 19 anos e sou de Marabá, no Pará. Faço Sistemas de Informação
+na UNIFESSPA e passo boa parte do tempo mexendo com web — hoje mais com TypeScript e
+React, mas também já rodei bastante com Java, Python e Swift.
 
-- 🎓 Graduando em **Sistemas de Informação** pela Universidade Federal do Sul e Sudeste do Pará (**UNIFESSPA**).
-- 🌱 Construindo base sólida em **front-end** e explorando **mobile com Swift**.
-- 🤝 Aberto a colaborar em projetos acadêmicos e open source.
-- 💬 Fale comigo sobre desenvolvimento web, faculdade ou qualquer anime bom.
+Fora do código: esporte, anime, filme, série e jogo no geral. \o/
+
+<br />
+
+<!-- ===================== TRABALHOS ===================== -->
+## 💼 Trabalhos
+
+- **Desenvolvedor Full Stack** — [Exception Jr](https://github.com/exceptionjr) 🦎 · 2023 – 2026
+- **Suporte de TI** — UEPA (Universidade do Estado do Pará) · 2025 – atual
 
 <br />
 
@@ -141,15 +130,6 @@ const caius = {
     alt="gráfico de atividade"
     width="100%"
   />
-</div>
-
-<!-- Cobrinha gerada pelo workflow .github/workflows/snake.yml (branch output) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuUs/CaiuUs/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiuUs/CaiuUs/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/CaiuUs/CaiuUs/output/snake.svg" alt="cobrinha de contribuições" width="100%" />
-  </picture>
 </div>
 
 <br />
