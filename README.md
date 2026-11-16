@@ -32,7 +32,7 @@ pela universidade federal do sul e sudeste do pará(UNIFESSPA)
 
 - Atualmente estudo e desenvolvo como Full Stack Jr, sempre tentando me aprimorar e explorar diferentes cenários, como cloud, IA, automação
 
-- Gosto bastante da área da tecnologia, mas fora dela, me interesso muito por culinária, jogos, filmes, séries e esportes
+- Gosto bastante da área da tecnologia, mas fora dela, me interesso muito por culinária, jogos, filmes, séries, animes e esportes
 
 <br />
 
