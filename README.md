@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Caius%20Ribeiro&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o%20%E2%80%A2%20UNIFESSPA%20%E2%80%A2%20Marab%C3%A1%2FPA&descAlignY=58&descSize=16&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Caius%20Ribeiro&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=22&animation=fadeIn"
     width="100%"
     alt="banner"
   />
