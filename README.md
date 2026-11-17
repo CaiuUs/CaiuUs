@@ -27,7 +27,7 @@
 <!-- ===================== SOBRE MIM ===================== -->
 ## 🧑🏻‍💻 Sobre mim
 
-- Oi! Sou o Caius, tenho 22 anos e sou de Marabá, no Pará. Estou me formando em Sistemas de Informação
+- Oi! Sou o Caius, tenho 22 anos e sou de Marabá, no Pará. Estou me formando (8º período) em Sistemas de Informação
 pela universidade federal do sul e sudeste do pará(UNIFESSPA)
 
 - Atualmente estudo e desenvolvo como Full Stack Jr, sempre tentando me aprimorar e explorar diferentes cenários, como cloud, IA, automação
